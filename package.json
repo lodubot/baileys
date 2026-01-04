@@ -1,5 +1,5 @@
 {
-    "name": "@yumenative/baileys",
+    "name": "@MOTU_PATALU_HINDU_HAI/baileys",
     "version": "2.0.3",
     "description": "WhatsApp API Modification By K",
     "keywords": [
@@ -17,7 +17,7 @@
         "url": "https://www.npmjs.com/package/@stvnnvs/baileys"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "MOTU PATLU",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
